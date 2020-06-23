@@ -5,45 +5,11 @@
 </a>
 </p>
 
-## You can Donate if you like my work:
-<p>
-<a href="https://money.yandex.ru/to/410018830733273">
-  <img src="https://img.shields.io/badge/YMoney-Hadenix-red" alt="Hadenix">
-</a>
-</p>
-
-## Common android 10 build tree for:
-<p>
-<a href="https://github.com/Havoc-OS/android_manifest">
-  <img src="https://img.shields.io/badge/manifest-Havoc%20OS-brightgreen" alt="Hadenix">
-</a>
-
-<a href="https://github.com/LineageOS/android">
-  <img src="https://img.shields.io/badge/manifest-LineageOS-brightgreen" alt="Hadenix">
-</a>
-
-<a href="https://github.com/PixelExperience/manifest">
-  <img src="https://img.shields.io/badge/manifest-Pixel Experience / Plus-brightgreen" alt="Hadenix">
-</a>
-
-<a href="https://github.com/Project-Xtended/manifest">
-  <img src="https://img.shields.io/badge/manifest-MSM Xtended-brightgreen" alt="Hadenix">
-</a>
-
-<a href="https://github.com/BlissRoms/platform_manifest">
-  <img src="https://img.shields.io/badge/manifest-BlissROMs-brightgreen" alt="Hadenix">
-</a>
-</p>
+## Device Tree for UMIDIGI A5_Pro
 
 This is a lightweight tree for building firmware with a built-in: stock kernel with official firmware. This tree does not include building a vendor, only a system.
 
 There is no official codename for this phone, so everything in this repository is just named ![Hadenix](https://img.shields.io/badge/-breeze-blue).
-
-UMIDIGI A5 Pro (codename: ![Hadenix](https://img.shields.io/badge/-breeze-blue) ) Gets under budget level wing from UMIDIGI.
-
-![Hadenix](https://img.shields.io/badge/-breeze-blue) released in 2019.
-
-![Hadenix](http://Hadenix.github.io/images/a5dev.png)
 
 ### Device specifications
 
@@ -61,6 +27,12 @@ Weight | 203 g
 Display | 6.3-inches IPS FHD+ Display (1080 x 2280 Pixels) 24-bit
 Camera | 16MP + 8MP + 5MP with Dual-LED and AF Triple Rear Camera | 16MP  Front Camera
 More Feature | Aluminum Body, Front Glass Body Design, LTE Cat7 300 Mbps Download, 100 Mbps Upload, HSPA+, Computer Sync, OTA Sync, VoLTE, Rounded Edges, OTG Support, Secure and Fast Fingerprint Sensor, 5V/2A Charger Output Power.
+
+UMIDIGI A5 Pro (codename: ![Hadenix](https://img.shields.io/badge/-breeze-blue) ) Gets under budget level wing from UMIDIGI.
+
+![Hadenix](https://img.shields.io/badge/-breeze-blue) released in 2019.
+
+![Hadenix](http://Hadenix.github.io/images/a5dev.png)
 
 ### Patches for fix video:
 <p>
